@@ -1,0 +1,12 @@
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\bin\Debug\net7.0\UtmBuilder.Core.deps.json
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\bin\Debug\net7.0\UtmBuilder.Core.dll
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\bin\Debug\net7.0\UtmBuilder.Core.pdb
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.csproj.AssemblyReference.cache
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.AssemblyInfoInputs.cache
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.AssemblyInfo.cs
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.csproj.CoreCompileInputs.cache
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.dll
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\refint\UtmBuilder.Core.dll
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.pdb
+C:\Users\MegaJ\OneDrive\Documentos\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\ref\UtmBuilder.Core.dll

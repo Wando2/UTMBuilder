@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "klpoD+kcF8OM3Ns9e9jI3P8Ylm91b5ZuHsrNFtoePdDvYM57fh50oLO8jOS0PT5U6gGjl6BRd5rHkQgm8ezA/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MegaJ\\OneDrive\\Documentos\\UtmBuilder\\UTMBuilder\\UtmBuilder.Core\\UtmBuilder.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MegaJ\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
